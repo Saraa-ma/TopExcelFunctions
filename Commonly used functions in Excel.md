@@ -41,8 +41,8 @@ The RANK function returns the rank of a numeric value in a list of numbers, It r
   **=RANK(number,ref,[order])**
 
 
+![alt text](https://github.com/Saraa-ma/TopExcelFunctions/tree/main/Images//rank.png?raw=true)
 
-![rank](D:\Data Scientist Code8\Git Samples\rank.png)
 
 
 
@@ -56,7 +56,8 @@ The COUNTBLANK function counts all the empty cells in a given range.
 
   **=COUNTBLANK(range)**
 
-  ![image-20220428184138859](D:\Data Scientist Code8\Git Samples\COUNTBLANK)
+![alt text](https://github.com/Saraa-ma/TopExcelFunctions/tree/main/Images/COUNTBLANK?raw=true)
+
 
 ---
 
