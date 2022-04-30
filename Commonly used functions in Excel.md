@@ -41,7 +41,7 @@ The RANK function returns the rank of a numeric value in a list of numbers, It r
   **=RANK(number,ref,[order])**
 
 (https://github.com/Saraa-ma/TopExcelFunctions/tree/main/Images/rank.png?raw=true)
-<img src="/main/Images/rank.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="~/main/Images/rank.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
 
 
