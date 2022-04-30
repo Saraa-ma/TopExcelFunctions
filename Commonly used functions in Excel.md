@@ -56,7 +56,7 @@ The COUNTBLANK function counts all the empty cells in a given range.
 
   **=COUNTBLANK(range)**
 
-![rank](https://github.com/Saraa-ma/TopExcelFunctions/tree/main/Images/COUNTBLANK?raw=true)
+(https://github.com/Saraa-ma/TopExcelFunctions/tree/main/Images/COUNTBLANK?raw=true)
 
 
 ---
