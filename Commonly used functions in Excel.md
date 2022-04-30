@@ -40,7 +40,7 @@ The RANK function returns the rank of a numeric value in a list of numbers, It r
 
   **=RANK(number,ref,[order])**
 
-./Images//rank.png
+
 (https://github.com/Saraa-ma/TopExcelFunctions/tree/main/Images//rank.png?raw=true)
 
 
